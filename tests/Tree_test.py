@@ -1,5 +1,4 @@
 import unittest
-
 from py_wheels.BinaryTree import *
 
 class TreesTests(unittest.TestCase):
