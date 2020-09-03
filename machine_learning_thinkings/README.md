@@ -1,0 +1,1 @@
+** Notice that the algorithms in this folder had not been optimized yet, just a try to reconstruct how it works on a hand-written scrach paper**
