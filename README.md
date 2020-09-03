@@ -1,0 +1,1 @@
+Self-written code without libraries for me to reuse in different projects, as well as some code scrach.
